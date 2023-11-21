@@ -2,7 +2,7 @@
 [UserObjects]
   [definition]
     type = GeochemicalModelDefinition
-    database_file = "/home/kit/agw/qz9211/projects/moose/modules/geochemistry/database/moose_geochemdb.json"
+    database_file = "/projects/moose/modules/geochemistry/database/moose_geochemdb.json"
     basis_species = "H2O              Ca++              Cl-              SO4--              H+                         HCO3-"
     equilibrium_minerals = "Calcite"
   []
