@@ -52,7 +52,7 @@ production_end_time = 9.461e+8 ## 30 years
   []
   [definition]
     type = GeochemicalModelDefinition
-    database_file = "/home/kit/agw/qz9211/projects/moose/modules/geochemistry/database/moose_geochemdb.json"
+    database_file = "/projects/moose/modules/geochemistry/database/moose_geochemdb.json"
     basis_species = "H2O SO4-- Ca++ Cl- H+ HCO3-"
     kinetic_minerals = "Calcite"
     kinetic_rate_descriptions = "rate_Calcite"
